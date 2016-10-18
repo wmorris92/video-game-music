@@ -1,7 +1,62 @@
 {
-  "e5": {
+  "e4": {
+    "frequency": 659.255,
+    "keyCode": 65,
+    "keyLetter": "a"
+  },
+  "f4": {
+    "frequency": 659.255,
+    "keyCode": 83,
+    "keyLetter": "s"
+  },
+  "g4": {
     "frequency": 659.255,
     "keyCode": 68,
     "keyLetter": "d"
-  }
+  },
+  "a5": {
+    "frequency": 659.255,
+    "keyCode": 70,
+    "keyLetter": "f"
+  },
+  "b5": {
+    "frequency": 659.255,
+    "keyCode": 71,
+    "keyLetter": "g"
+  },
+  "c5": {
+    "frequency": 659.255,
+    "keyCode": 72,
+    "keyLetter": "h"
+  },
+  "d5": {
+    "frequency": 659.255,
+    "keyCode": 74,
+    "keyLetter": "j"
+  },
+  "e5": {
+    "frequency": 659.255,
+    "keyCode": 75,
+    "keyLetter": "k"
+  },
+  "e5": {
+    "frequency": 659.255,
+    "keyCode": 76,
+    "keyLetter": "l"
+  },
+  "e5": {
+    "frequency": 659.255,
+    "keyCode": 186,
+    "keyLetter": ";"
+  },
+  "e5": {
+    "frequency": 659.255,
+    "keyCode": 222,
+    "keyLetter": "'"
+  },
+  "e5": {
+    "frequency": 659.255,
+    "keyCode": 220,
+    "keyLetter": "\\"
+  },
 }
